@@ -55,3 +55,5 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-country="SI" tvg-url="" group-title="",MMC
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-country="SI" tvg-url="" group-title="", Solub
+https://hddn00.skylinewebcams.com/live.m3u8?a=aedkukonlmea779eips3bmklq2
