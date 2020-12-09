@@ -29,7 +29,7 @@ rtmp://video.radio-banovina.hr/live/myStream
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="France" tvg-logo="" tvg-country="France" tvg-url="" group-title="",France 24
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="", Film 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="", Kanal 1
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 (SRB)
 http://mongomax.myeffect.net:8079/live/vkund1/kundv1/134.ts?checkedby:hlscat.com
@@ -47,8 +47,6 @@ https://www.30a-tv.com/InvPit.m3u8
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" tvg-country="US" tvg-url="" group-title="",30A Sidewalks
 https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="KZ" tvg-url="" group-title="",31 канал
-https://sc.id-tv.kz/31Kanal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/GkqifMa.jpg" tvg-country="RS" tvg-url="" group-title="",Televizija Leskovac
 http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" tvg-country="RS" tvg-url="" group-title="Music",TV Duga Plus
@@ -57,7 +55,7 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-country="SI" tvg-url="" group-title="",MMC
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-country="SI" tvg-url="" group-title="", Solub
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-country="SI" tvg-url="" group-title="", Solun Live Camera
 https://hddn00.skylinewebcams.com/live.m3u8?a=aedkukonlmea779eips3bmklq2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
@@ -65,37 +63,3 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-country="US" tvg-url="" group-title="Sport",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 (SRB)
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/134.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",1+1
-http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",24 Kitchen
-http://tv.nova-iptv.com:80/Robert_Valpotic/HuAYmBHcU2/601?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL JAZEERA BALKANS
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/323.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AMC
-http://tv.nova-iptv.com:80/Robert_Valpotic/HuAYmBHcU2/599?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AMC
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/2033.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/295.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 (HR)
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/139.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 HD (SR)
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/85187?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 2 (SRB)
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/133.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 3 (SRB)
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/132.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 3 HD (SR)
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/85185?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 4 HD (SR)
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/85184?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 5 HD (HR)
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/85179?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Boomerang
-http://tv.nova-iptv.com:80/Robert_Valpotic/HuAYmBHcU2/387?checkedby:hlscat.com
