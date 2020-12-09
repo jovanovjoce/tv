@@ -1,18 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Sitel
-http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Kanal 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Kanal 5
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Telma
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Telma
 http://151.80.119.241:8081/tvstanici/3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Alfa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Alfa
 http://151.80.119.241:8081/tvstanici/4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",24 Vesti
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",24 Vesti
 http://151.80.119.241:8081/tvstanici/5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Kanal 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Kanal 8
 http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Kanal 5 (2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",MTV 1 (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",MTV 2 (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Sobraniski (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",TV 21 (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Hasa TV (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",MTM 1 (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Sitel (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Kanal 5 (2)
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Alfa (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",24 Vesti (2)
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",TV Hugo
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",skyfolk
