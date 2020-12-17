@@ -33,8 +33,6 @@ https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 (SRB)
 http://mongomax.myeffect.net:8079/live/vkund1/kundv1/134.ts?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="Live Cam", Lloret de Mar (Beach Cam)
-https://cdn-003.whatsupcams.com/hls/es_lmar1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-country="US" tvg-url="" group-title="Local",23 ABC (KERO)
@@ -53,8 +51,6 @@ http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nett
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-country="SI" tvg-url="" group-title="",MMC
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-country="SI" tvg-url="" group-title="", Solun Live Camera
-https://hddn00.skylinewebcams.com/live.m3u8?a=aedkukonlmea779eips3bmklq2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports West
