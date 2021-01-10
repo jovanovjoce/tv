@@ -29,6 +29,8 @@ rtmp://video.radio-banovina.hr/live/myStream
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/gdaxFrx.jpg" tvg-country="HR" tvg-url="" group-title="",Z1
 https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" tvg-country="BG" tvg-url="" group-title="Music",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",Lolo Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-country="France" tvg-url="" group-title="",France 24
