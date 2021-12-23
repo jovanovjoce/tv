@@ -5,6 +5,8 @@ http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Telma
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Telma2
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Alfa
 http://151.80.119.241:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",24 Vesti
