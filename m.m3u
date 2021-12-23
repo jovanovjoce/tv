@@ -5,93 +5,21 @@ http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Telma
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Telma2
-http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Alfa
-http://151.80.119.241:8081/tvstanici/4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",24 Vesti
-http://151.80.119.241:8081/tvstanici/5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Kanal 8
 http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Kanal 1
-http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",TV Sonce
 https://media2.streambrothers.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Sky Folk
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/jozQP6Z.png" tvg-country="ME" tvg-url="" group-title="",RTCG Sat
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/vAzXsBM.jpg" tvg-country="ME" tvg-url="" group-title="",777 Tehnika TV
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/GkqifMa.jpg" tvg-country="RS" tvg-url="" group-title="",Televizija Leskovac
-http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" tvg-country="RS" tvg-url="" group-title="Music",TV Duga Plus
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",HRT 1
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",HRT 3
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",HRT 4
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7q3g8AS.png" tvg-country="HR" tvg-url="" group-title="",Radio Televizija Banovina
-rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Croatian" tvg-logo="" tvg-country="HR" tvg-url="" group-title="", N1
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/gdaxFrx.jpg" tvg-country="HR" tvg-url="" group-title="",Z1
-https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" tvg-country="BG" tvg-url="" group-title="Music",Balkanika Music TV
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",Lolo Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-country="France" tvg-url="" group-title="",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="France" tvg-logo="" tvg-country="France" tvg-url="" group-title="",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-country="US" tvg-url="" group-title="Local",23 ABC (KERO)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url="" group-title="Music",30A Music
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" tvg-country="US" tvg-url="" group-title="",30A Sidewalks
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-country="US" tvg-url="" group-title="Sport",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" tvg-country="US" tvg-url="" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="Germany" tvg-url="" group-title="",DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="Germany" tvg-url="" group-title="",DW Deutsch
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="Germany" tvg-url="" group-title="",DW Deutsch+
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",MTV 1 (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",MTV 2 (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Sobraniski (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",TV 21 (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Hasa TV (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",MTM 1 (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Sitel (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Kanal 5 (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Alfa (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",24 Vesti (2)
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",GP Bogorodica
-http://streaming.neotel.net.mk:1935/live/bogorodica.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Demir Kapija - Gevgelija
 http://streaming1.neotel.net.mk:8080/hls/gevgelija_1.m3u8
