@@ -43,3 +43,23 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://tvnova.hr/images/logo-tvnova.png" group-title="Undefined",TV Nova (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x694rtu
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT News (1080p) [Geo-blocked]
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-country="RS" tvg-language="Serbian;Swedish" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" group-title="Undefined",RTV 1 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.rtv.rs/assets/repository/2017/img/header/logo-rtv_sr_ci.png" group-title="Undefined",RTV 2 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
+#EXTINF:-1 tvg-id="RTVAS.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/wcXNcP6.png" group-title="Undefined",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="RTVCityUb.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Sz4G9ns.png" group-title="Undefined",RTV City Ub (576p) [Not 24/7]
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/eNspJAS.png" group-title="Undefined",RTV Novi Pazar (576p)
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://mts.rs/oec/images/tv_channels/78b8b0fe8b35f5afd2a9971e91adb2d4.png" group-title="Undefined",Sandzak TV (576p)
+https://vod1.laki.eu/sandzak/video.m3u8
+#EXTINF:-1 tvg-id="SuperSatTVHD.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="" group-title="Undefined",SuperSat TV HD (1080p) [Not 24/7]
+https://srv1.adriatelekom.com/SuperSatTV/index.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
