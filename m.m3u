@@ -25,6 +25,14 @@ http://eu4.fastcast4u.com/proxy/metradio/?mp=/stream
 http://stream.zemi.mk:8012/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Rabrovo
 http://de1.internet-radio.com:8183/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Sky
+http://s1.skyradio.com.mk:8002/;?1461419091351.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Star
+https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Meff
+http://91.121.195.222:16040/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Rosa
+http://s3.free-shoutcast.com:18032/;stream.nsv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" tvg-country="BG" tvg-url="" group-title="Music",Balkanika Music TV
