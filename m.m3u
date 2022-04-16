@@ -15,10 +15,14 @@ http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 http://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="",Sky Folk
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",RTL
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Kanal 77
 http://kanal77.mk:8088/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Anntena 5
+http://antenna5stream.neotel.mk:8000/live128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio - Metropolis
+http://eu4.fastcast4u.com/proxy/metradio/?mp=/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" tvg-country="BG" tvg-url="" group-title="Music",Balkanika Music TV
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",Lolo Kids
