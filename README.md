@@ -2,8 +2,10 @@
 To watching Macedonian IP TV Channels you nead to install IPTV application and add channel list.
 
 Android example:  
-1.Download & Install app "Televizo - IPTV player". Link https://play.google.com/store/apps/details?id=com.ottplay.ottplay  
-2.Open "Televizo - IPTV player", go to settings, create and add m3u playlist. Link http://jovanovjoce.github.io/tv/m.m3u
+1.Download & Install app "Televizo - IPTV player". 
+Link https://play.google.com/store/apps/details?id=com.ottplay.ottplay  
+2.Open "Televizo - IPTV player", go to settings, create and add m3u playlist. 
+Link http://jovanovjoce.github.io/tv/m.m3u
   
 You can do this on android, iphone, smartTV and everywhere where you can find IPTV application.
 
