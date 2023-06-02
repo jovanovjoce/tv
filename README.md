@@ -1,7 +1,7 @@
 # tv
 For watching Macedonian IP TV Channels you nead to install IPTV application and add channel list.
 
-ANDROID Example. 
+ANDROID Example.  
 1.Install IPTV APPS. 
 From play store install some IPTV App. example:https://play.google.com/store/apps/details?id=com.ottplay.ottplay
   
