@@ -29,5 +29,30 @@ Lists of Macedonian television channels:
 016 - TV Orbis - Bitola
 017 - TV Australia - Bitola
 018 - Makedonsko Sonce
-019 - TV Sonce
+019 - TV Sonce - Problem
 020 - Love TV
+021 - Sky Folk
+022 - Star Folk
+023 - Star Plus Music
+024- Folk Klub
+025- Folk TV
+026- Jazz TV
+
+Macedonian radio stations:
+027 - Kanal 77 - Stip
+028 - Anntena 5
+029 - Metropolis
+030 - Radio Kocani
+031 - Radio Rabrovo
+032 - Sky
+033 - Star
+034 - Meff
+035 - Rosa
+
+Other TV Chennels:
+036 - RTL
+037 - Balakanika
+038 - Lolo Kids
+039 - A2i Music
+040 - Fashion TV
+
