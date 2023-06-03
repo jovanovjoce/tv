@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://imgur.com/a/7YXouaI" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",Kanal 5
+#EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",Kanal 5
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sitel" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/BCXZxGP.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",Sitel
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
