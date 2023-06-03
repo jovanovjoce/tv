@@ -5,7 +5,7 @@ http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/7k8ar1Z.png" tvg-country="MK" tvg-url="" group-title="Mak",Telma
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://imgur.com/a/A5jgFHD" tvg-country="MK" tvg-url="" group-title="Mak",TV 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/7k8ar1Z.png" tvg-country="MK" tvg-url="" group-title="Mak",TV 24
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://imgur.com/a/UmHXtY0" tvg-country="MK" tvg-url="" group-title="Mak",ALFA
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
