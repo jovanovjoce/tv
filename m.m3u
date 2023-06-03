@@ -11,7 +11,7 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/XVxnd7m.png" tvg-country="MK" group-title="Mak",TV 21
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://imgur.com/a/A8xpkh1" tvg-country="MK" tvg-url="" group-title="Mak",MRT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/GmSTt5T.png" tvg-country="MK" group-title="Mak",MRT 1
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
 #EXTINF:-1 tvg-id="MRTSobraniskikanal.mk" tvg-logo="https://imgur.com/a/AClDPvq" group-title="Undefined",MRT Sobraniski kanal
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
