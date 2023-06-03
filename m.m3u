@@ -3,7 +3,7 @@
 http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sitel" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/BCXZxGP.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",Sitel
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
-#EXTINF:-1 tvg-id="Te;,a" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/BCXZxGP.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",Telma
+#EXTINF:-1 tvg-id="Telma" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/msrI3Q8.jpg" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0",Telma
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/7k8ar1Z.png" tvg-country="MK" tvg-url="" group-title="Mak",TV 24
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
