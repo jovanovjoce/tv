@@ -33,9 +33,9 @@ https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
 #EXTINF:-1 tvg-id="TVOrbis.mk" tvg-logo="https://i.imgur.com/1nJl0Pv.png" group-title="General",TV Australia (Bitola)
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 tvg-id="MakedonskoSonce.mk" tvg-logo="https://i.imgur.com/uDokcwS.jpg" group-title="General",Makedonsko Sonce
+#EXTINF:-1 tvg-id="MakedonskoSonce.mk" tvg-logo="https://i.imgur.com/aZhCS0A.png" group-title="General",Makedonsko Sonce
 https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",TV Sonce - привремено не работи
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/GT1mMGq.png" tvg-country="MK" tvg-url="" group-title="Mak",TV Sonce - привремено не работи
 http://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveTV.mk" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="Music",Love TV
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
