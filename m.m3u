@@ -117,3 +117,5 @@ https://vod1.laki.eu/sandzak/video.m3u8
 https://srv1.adriatelekom.com/SuperSatTV/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Granica.tr" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",GP Bogorodica
+https://streaming1.neotel.net.mk/hls/bogorodica.m3u8
