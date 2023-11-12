@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Mak",Kanal 5
-http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
 #EXTINF:-1 tvg-id="Sitel" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
 #EXTINF:-1 tvg-id="Telma" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/KntCc4A.png" group-title="Mak",Telma
