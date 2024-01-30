@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Mak",Kanal 5
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
-#EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Mak",sitel 2
+#EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel
 https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MDE6NDkgUE0maGFzaF92YWx1ZT1PaUFubUwrSElxaWRrWVJsRUFUMGt3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
-#EXTINF:-1 tvg-id="Sitel" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
 #EXTINF:-1 tvg-id="Telma" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/KntCc4A.png" group-title="Mak",Telma
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/voJWPK8.png" tvg-country="MK" group-title="Mak",TV 24
@@ -121,3 +119,5 @@ https://srv1.adriatelekom.com/SuperSatTV/index.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Granica.tr" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",GP Bogorodica
 https://streaming1.neotel.net.mk/hls/bogorodica.m3u8
+#EXTINF:-1 tvg-id="Sitel" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel Old
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
