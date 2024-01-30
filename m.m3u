@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Mak",Kanal 5
 https://s2.teve.mk/tvstanici/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MDc6MTIgUE0maGFzaF92YWx1ZT1HeU5TbVlZc25FNEdwZVBCaFZ4Ukx3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel
-https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MDE6NDkgUE0maGFzaF92YWx1ZT1PaUFubUwrSElxaWRrWVJsRUFUMGt3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MTQ6NDQgUE0maGFzaF92YWx1ZT1GOGUyL0NnaXdrbGdKcDZCL0MyckxnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="Telma" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/KntCc4A.png" group-title="Mak",Telma
 https://teve.mk/tvstanici/telma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MDg6NDIgUE0maGFzaF92YWx1ZT1zL0hSR09HckhlaThpZGJxYm1NZmp3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/voJWPK8.png" tvg-country="MK" group-title="Mak",TV 24
@@ -12,7 +12,7 @@ https://teve.mk/tvstanici/alfa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/XVxnd7m.png" tvg-country="MK" group-title="Mak",TV 21
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/GmSTt5T.png" tvg-country="MK" group-title="Mak",MRT 1
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+https://teve.mk/tvstanici/mrt1_360p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MTQ6MDYgUE0maGFzaF92YWx1ZT1PODJ1ZG0xV3RORzU4amJ6bThpSStBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Tk9Fqzt.jpg" tvg-country="MK" group-title="Mak",MRT Sobraniski kanal
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/RmZL83f.png" tvg-country="MK" group-title="Mak",Kanal 8 (Kocani)
