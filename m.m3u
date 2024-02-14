@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="" group-title="Mak",MTV 1
+https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDI0IDg6MDU6MzMgQU0maGFzaF92YWx1ZT1Na1ROSlpycUlJSHBxejd5T2dmRDFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1Y2M3NDRkMTc4MDY=
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Mak",Kanal 5
 https://s2.teve.mk/tvstanici/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MDc6MTIgUE0maGFzaF92YWx1ZT1HeU5TbVlZc25FNEdwZVBCaFZ4Ukx3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel
