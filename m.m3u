@@ -61,6 +61,8 @@ https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 https://radiocnd.mms.mk/proxy/user12/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Anntena 5 (Radio)
 http://antenna5stream.neotel.mk:8000/live128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Naxi (Radio)
+http://naxi128.streaming.rs:9150/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Metropolis (Radio)
 http://eu4.fastcast4u.com/proxy/metradio/?mp=/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="" tvg-country="MK" tvg-url="" group-title="Mak",Radio Kocani (Radio)
