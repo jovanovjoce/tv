@@ -10,7 +10,7 @@ https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yM
 #EXTINF:-1 tvg-id="Telma" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/KntCc4A.png" group-title="Mak",Telma
 https://teve.mk/tvstanici/telma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MDg6NDIgUE0maGFzaF92YWx1ZT1zL0hSR09HckhlaThpZGJxYm1NZmp3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/voJWPK8.png" tvg-country="MK" group-title="Mak",TV 24
-https://teve.mk/tvstanici/24vesti/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MTE6MjkgUE0maGFzaF92YWx1ZT1rRXRXTEtZb2VIZFltTDNuTC9pWXJBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/vb9I4H5.png" tvg-country="MK" group-title="Mak",ALFA
 https://teve.mk/tvstanici/alfa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MTA6MzkgUE0maGFzaF92YWx1ZT1GdW15dCt1dEV2TVBnQStGc1dzUDNBPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/XVxnd7m.png" tvg-country="MK" group-title="Mak",TV 21
@@ -39,6 +39,8 @@ http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 tvg-id="MakedonskoSonce.mk" tvg-logo="https://i.imgur.com/aZhCS0A.png" group-title="General",Makedonsko Sonce
 https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
+#EXTINF:-1 tvg-id="MakedonskoSonce.mk" tvg-logo="https://i.imgur.com/aZhCS0A.png" group-title="General",Pink Plus
+https://webtvstream.bhtelecom.ba/pink_plus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/GT1mMGq.png" tvg-country="MK" tvg-url="" group-title="Mak",TV Sonce - привремено не работи
 http://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveTV.mk" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="Music",Love TV
