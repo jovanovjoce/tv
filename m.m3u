@@ -4,7 +4,7 @@ https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="" group-title="Mak",MTV 2
 https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDI0IDg6MDg6NDggQU0maGFzaF92YWx1ZT02ZVVwbTYvbEJBNG1MZEJNM2tVUzhRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY1Y2M3NTEwM2Y5OTU=
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Mak",Kanal 5
-https://s2.teve.mk/tvstanici/2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MDc6MTIgUE0maGFzaF92YWx1ZT1HeU5TbVlZc25FNEdwZVBCaFZ4Ukx3PT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
+https://play.kanal5.com.mk/hls/k5.m3u8
 #EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel
 https://teve.mk/tvstanici/s1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI0IDM6MTQ6NDQgUE0maGFzaF92YWx1ZT1GOGUyL0NnaXdrbGdKcDZCL0MyckxnPT0mdmFsaWRtaW51dGVzPTcmaWQ9NQ==
 #EXTINF:-1 tvg-id="Telma" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/KntCc4A.png" group-title="Mak",Telma
