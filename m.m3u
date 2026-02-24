@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/RmZL83f.png" tvg-country="MK" group-title="Mak",Kanal 8 (Kocani)
-http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/RmZL83f.png" tvg-country="MK" group-title="Mak",Kanal 8 - 2 (Kocani)
 https://live20.bozztv.com/giatv/giatv-kanal8live/kanal8live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/2bZEEsO.jpg" tvg-country="MK" group-title="Mak",M Net (Stip)
-http://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids",M-Net Kids (Stip)
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-id="MNetSport.mk" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports",M-Net Sport (Stip)
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-logo="https://i.imgur.com/w4rRUNQ.png" group-title="General",TV Zdravkin (Veles)
-http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNOVA12.mk" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" group-title="General",TV NOVA 12 (Gevgelija)
 http://151.236.247.171:8080/nova/index.m3u8
 #EXTINF:-1 tvg-id="MTM.mk" tvg-logo="https://i.ibb.co/HCRZVVz/images-4.png" group-title="General",MTM 1 (Skopska)
