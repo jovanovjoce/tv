@@ -61,21 +61,3 @@ https://srv1.adriatelekom.com/TVAS/index.m3u8
 http://167.172.39.13/hls/tvcityub.m3u8
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/eNspJAS.png" group-title="Undefined",RTV Novi Pazar
 https://rtvnp.rs/hls/rtvnp.m3u8
-#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://mts.rs/oec/images/tv_channels/78b8b0fe8b35f5afd2a9971e91adb2d4.png" group-title="Undefined",Sandzak TV
-https://vod1.laki.eu/sandzak/video.m3u8
-#EXTINF:-1 tvg-id="SuperSatTVHD.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="" group-title="Undefined",SuperSat TV HD
-https://srv1.adriatelekom.com/SuperSatTV/index.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Granica.tr" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",GP Bogorodica
-https://streaming1.neotel.net.mk/hls/bogorodica.m3u8
-#EXTINF:-1 tvg-id="Kanal5" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Df5HhKk.png" group-title="Mak",Kanal 5
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
-#EXTINF:-1 tvg-id="Sitel" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kw7WKeY.png" group-title="Mak",Sitel Old
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
-#EXTINF:-1 tvg-id="Telma" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/KntCc4A.png" group-title="Mak",Telma
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/voJWPK8.png" tvg-country="MK" group-title="Mak",TV 24
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/vb9I4H5.png" tvg-country="MK" group-title="Mak",ALFA
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
